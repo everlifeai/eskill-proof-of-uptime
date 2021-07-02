@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "cote": "^0.20.0",
-    "stellar-sdk": "1.0.4"
+    "stellar-sdk": "8.2.3"
   }
 }
